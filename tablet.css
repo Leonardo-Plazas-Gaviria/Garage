@@ -1,0 +1,22 @@
+    .car1, .car2, .car3, .car4, .car5, .car6, .car7, .car8, .car9, .car10, .car11, .car12 {
+        width: 50%;
+    } 
+    .container figure:nth-child(2n+1) {
+        padding: 0.5% 0.5% 0.5% 1%;
+    }
+    .container figure:nth-child(1) {
+        padding: 1% 0.5% 0.5% 1%;
+    }
+
+    .container figure:nth-child(2n) {
+        padding: 0.5% 1% 0.5% 0.5%;
+    }
+    .container figure:nth-child(2) {
+        padding: 1% 1% 0.5% 0.5%;
+    }
+    .container figure:nth-child(11) {
+        padding: 0.5% 0.5% 1% 1%;
+    }
+    .container figure:nth-child(12) {
+        padding: 0.5% 1% 1% 0.5%;
+    }
